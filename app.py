@@ -1,4 +1,4 @@
-```python
+
 import os
 import streamlit as st
 from PIL import Image
@@ -663,4 +663,4 @@ st.caption(
     "ARCHIVO CERO · Laboratorio de investigación documental · "
     "Explora, pregunta y descubre."
 )
-```
+
